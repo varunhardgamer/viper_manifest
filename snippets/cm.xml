@@ -35,7 +35,7 @@
   <project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" />
 
 
-  <project<project path="packages/apps/Profiles" name="LineageOS/android_packages_apps_Profiles" />
+  <project path="packages/apps/Profiles" name="LineageOS/android_packages_apps_Profiles" />
   <project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" />
   <project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" />
   <project path="packages/providers/DataUsageProvider" name="LineageOS/android_packages_providers_DataUsageProvider" />
